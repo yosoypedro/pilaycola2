@@ -1,7 +1,4 @@
 # pilaycola2
-¡Por supuesto! Aquí tienes otra versión del README para los programas de gestión de colas y pilas:
-
----
 
 # Gestión de Colas y Pilas en Java
 
@@ -39,11 +36,3 @@ Para ejecutar cualquiera de los programas, sigue estos pasos:
 ## Contribución
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar estos programas o encuentras errores, no dudes en abrir un problema o enviar una solicitud de extracción.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
-
----
-
-Puedes ajustar este README según tus necesidades específicas y agregar más detalles si lo consideras necesario. ¡Espero que esto te sea útil!
